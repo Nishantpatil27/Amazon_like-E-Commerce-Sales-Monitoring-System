@@ -135,7 +135,8 @@ SELECT * FROM orders;
 - 🕒 The simulation runs indefinitely until you **close the terminal or exit the application**, at which point the data insertion **process stops automatically.**
 - Ensure the password is set to **root: loop%40123**
  
-<img width="1920" height="1080" alt="Screenshot 2025-11-09 185947" src="https://github.com/user-attachments/assets/9d7b5d7e-2972-44bf-9754-ad92e5a39e82" />
+<img width="1920" height="1017" alt="Screenshot 2025-11-09 185947" src="https://github.com/user-attachments/assets/b04a4a61-5acd-421f-818a-d7c5b0dda0b0" />
+
 ---
 
 # 📊 DashBorad/ Report
