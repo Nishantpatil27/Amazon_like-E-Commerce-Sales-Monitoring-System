@@ -139,7 +139,7 @@ SELECT * FROM orders;
 
 ---
 
-# 📊 DashBorad/ Report
+# 📊 DashBoard/ Report
 ### ☑️ All Mesures
 ```
 Avg_Customer_Rating = AVERAGE('amazon_project orders'[ratings])
@@ -153,12 +153,12 @@ total_orders = COUNT('amazon_project orders'[order_id])
 ```
 Total_Quantity_sell = SUM('amazon_project orders'[quantity])
 ```
-### 🔎 DashBorad Overview
+### 🔎 DashBoard Overview
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/420135df-df99-41b4-82f2-3b3992dae061" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/86ded284-66d7-4b78-9536-40fec8514001" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a1032c79-3ded-4074-b3a5-6a8828c55b32" />
 
-### ⚠️Erorr Shows(Only Using My DashBorad)
+### ⚠️Erorr Shows(Only Using My DashBoard)
 
 ![WhatsApp Image 2025-11-09 at 12 39 25_ca1e7581](https://github.com/user-attachments/assets/413fd32f-ad80-4d25-b6e9-ce99325defed)
 
